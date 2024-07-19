@@ -37,4 +37,4 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cholpon-d)](https://github.com/cholpon-d/leetcode-stats) 
+<!---[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cholpon-d)](https://github.com/cholpon-d/leetcode-stats) -->
